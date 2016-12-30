@@ -4,9 +4,13 @@ live demo [here](https://mafallahi.github.io/demo/math-game)
 
 
 ##install package for developer :chicken:	
-  ```npm install```
+```
+npm install
+```
 
 ##browser auto reload :chicken:  
-``gulp``
+```
+gulp
+```
 #Licence
 MIT
