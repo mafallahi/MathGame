@@ -1,0 +1,15 @@
+{
+  "name": "mathgame",
+  "version": "1.0.0",
+  "description": "Simple game play with Mathematics",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Ali Fallahi",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1"
+  }
+}
