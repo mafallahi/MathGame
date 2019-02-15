@@ -1,6 +1,6 @@
 ## Math Game
->Simple game play with Mathematics ||
-live demo [here](https://mafallahi.github.io/demo/math-game)
+>Simple game play with Mathematics 
+>live demo [here](https://mafallahi.github.io/demo/math-game)
 
 
 ## install package for developer :chicken:	
